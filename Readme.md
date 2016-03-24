@@ -6,5 +6,5 @@ Exploring Multiple Variables.
 <br>
 In this folder you will find the Markdown and the output html file.
 <br>
-This is the link to the output html file: [here](https://moscosof.github.io/EDA_Diamonds_1/EDA_Diamonds_3.html)
+This is the link to the output html file: [here](https://moscosof.github.io/EDA_Diamonds_3/EDA_Diamonds_3.html)
 
